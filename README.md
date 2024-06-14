@@ -9,7 +9,7 @@ This Python script extracts timestamps from .eml files and renames the files for
 ## Usage
 To run the script, use the following command:
 ```bash
-python3 python eml-timestamp-renamer.py <input_directory> <output_directory> [max_length_field_name]
+python3 python eml-timestamp-renamer.py <input_directory> <output_directory>
 ```
 
 ## License
